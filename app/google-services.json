@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "73051776825",
+    "firebase_url": "https://simotor-dna.firebaseio.com",
+    "project_id": "simotor-dna",
+    "storage_bucket": "simotor-dna.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73051776825:android:34339ae26e5678c7",
+        "android_client_info": {
+          "package_name": "com.digitalnetworkasia.simotor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73051776825-c6q7hcu1f7jka24id7p0k3hq46lhcf64.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.digitalnetworkasia.simotor",
+            "certificate_hash": "d451ec7d9ab6170c4044ab9beb7a2e0969f2ebf4"
+          }
+        },
+        {
+          "client_id": "73051776825-88ohcrej4c2gqsqkn27jc62vdf5n7qkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJg4AzfYM7ReWejCuNPZMEhueI0hVhwOQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73051776825-88ohcrej4c2gqsqkn27jc62vdf5n7qkq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
